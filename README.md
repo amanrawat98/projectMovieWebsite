@@ -1,4 +1,4 @@
-Steps to Run This Movie Website. <br>
+## Steps to Run This Movie Website. <br>
 Step 1: Install Node Js in Vs Code. <br>
 Step 2: Download Zip file and extract the file. <br>
 Step 3: Now go to vs code and open the folder. <br>
